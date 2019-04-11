@@ -13,5 +13,5 @@ Une fois ces classes créées, les unités basiques ont une vitesse de 1 (elles 
 * Lors d’un echo sur un objet, ce dernier doit afficher sa position (revoir le cours 1).
 * La méthode attack() affiche juste une phrase “à l’attaque”.
 
-![picture alt](https://drive.google.com/open?id=1a-2W1GE_ugPQJRBjqJWakxUKNtTVgGhF)
+![picture](atelierpoo2.png)
 
