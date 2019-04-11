@@ -5,16 +5,12 @@ namespace Unit;
 
 
 class Elf extends Unit
-{
-    /**
-     * Attributs
-     */
-
-    /**
+{    /**
      * Méthodes
      */
     public function __construct()
     {
+        $this->speed = 5;
     }
 
 

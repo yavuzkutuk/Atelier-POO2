@@ -6,11 +6,6 @@ namespace Unit;
 
 class Soldier extends Unit
 {
-
-    /**
-     * Attributs
-     */
-
     /**
      * Méthodes
      */
